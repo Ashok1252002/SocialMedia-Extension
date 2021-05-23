@@ -1,0 +1,49 @@
+/* * {
+	transition: all 250ms cubic-bezier(0.25, 0.46, 0.45, 0.94) 0s !important;
+	 overflow: hidden;
+}
+
+*:hover {
+	transform: scale(1);
+} */
+
+/* a,
+a:link,
+a:active,
+a:visited {
+	transition: color 0.25s ease-out !important;
+	-webkit-transition: color 0.25s ease-out !important ;
+	-moz-transition: color 0.25s ease-out !important;
+	-o-transition: color 0.25s ease-out !important;
+	color: #cc3c09;
+}
+a,
+a:link,
+a:active,
+a:visited {
+	transition: background-color 0.25s ease-out !important;
+	-webkit-transition: background-color 0.25s ease-out !important;
+	-moz-transition: background-color 0.25s ease-out !important;
+	-o-transition: background-color 0.25s ease-out !important;
+	background-color: #cc3c09;
+}
+a:hover {
+	transform: scaleX(1) !important;
+} */
+
+/* a,
+a:link,
+a:active,
+a:visited {
+	transition: background-color 0.25s ease-out;
+	-webkit-transition: background-color 0.25s ease-out;
+	-moz-transition: background-color 0.25s ease-out;
+	-o-transition: background-color 0.25s ease-out;
+	background-color: #cc3c09;
+
+	transition: color 0.25s ease-out;
+	-webkit-transition: color 0.25s ease-out;
+	-moz-transition: color 0.25s ease-out;
+	-o-transition: color 0.25s ease-out;
+	color: #cc3c09;
+} */
